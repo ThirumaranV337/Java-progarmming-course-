@@ -1,0 +1,11 @@
+class main{
+    public static void main(String a[])
+    {
+        int num_1=5;
+        long num_2=6l;
+        String b="Hello thirumaran";
+        Boolean ans=true;
+        float float_value=0.7f;
+        
+    }
+}
