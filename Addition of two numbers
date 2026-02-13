@@ -1,0 +1,9 @@
+class main{
+    public static void main(String a[])
+    {
+        int num_1=5;
+        int num_2=6;
+        int result=num_1+num_2;
+        System.out.println(result); 
+    }
+}
