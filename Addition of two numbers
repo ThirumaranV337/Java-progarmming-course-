@@ -7,3 +7,17 @@ class main{
         System.out.println(result); 
     }
 }
+\\int=4 bytes
+\\long=8 bytes
+\\short=2 bytes
+\\byte=8bits
+\\----------\\
+\\float=4 bytes
+\\double=8 bytes it is deaault ,if we want to change the default duble into float then we want to do this ------> float variable=3.4f;
+\\------------\\
+\\character
+\\syntax--->char variable='a'----->single quatoes single character " "--->double quatoes more character
+\\-------------\\
+\\boolean
+\\suntax
+\\boolean variableName = value;
