@@ -7,3 +7,4 @@ class Main {
     }
 }
 \\Casting is a Exclipt conversion 
+\\when we performing a operation on a two byte value it will promate to integer when their size is larger 
