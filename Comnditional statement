@@ -1,0 +1,13 @@
+class Main{
+    public static void main(String[] args)
+    {
+        int a = 10;
+        if(a==10)
+        {
+            System.out.println("Yes a is greater than 10");
+        }
+        else
+         System.out.println("No a is not greater than 10");
+        
+    }
+}
